@@ -1,4 +1,4 @@
-# 📚 LiterAlura - Challenge Oracle Next Education
+# 📚 LiterAlura
 
 **LiterAlura** es una aplicación de consola desarrollada en Java que permite gestionar un catálogo de libros interactuando con la API [Gutendex](https://gutendex.com/). El sistema permite buscar libros, registrar autores y realizar análisis estadísticos sobre los datos almacenados en una base de datos relacional.
 
